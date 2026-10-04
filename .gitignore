@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.db
+
+# Node
+node_modules/
+frontend/dist/
+
+# Environment and OS
+.env.local
+.env.production
+.DS_Store
+Thumbs.db
+*.log
